@@ -1,3 +1,6 @@
 this is for delete
 more text
+<<<<<<< HEAD
 git
+=======
+>>>>>>> delete
